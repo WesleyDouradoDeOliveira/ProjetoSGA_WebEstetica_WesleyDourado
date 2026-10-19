@@ -23,3 +23,4 @@ O objetivo do sistema é eliminar o gargalo operacional do agendamento manual e 
    ```bash
    git clone [https://github.com/SEU-USUARIO/ProjetoSGA_WebEstetica_WesleyDourado.git](https://github.com/SEU-USUARIO/ProjetoSGA_WebEstetica_WesleyDourado.git)
    cd ProjetoSGA_WebEstetica_WesleyDourado
+   .
